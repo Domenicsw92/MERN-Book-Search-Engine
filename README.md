@@ -2,6 +2,16 @@
 Visit the deployed site!
 Heroku Deployed Site: https://mern-googlebook-library.herokuapp.com/
 
+
+## User Story
+
+
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
+
+
+
 License [![badge:](https://img.shields.io/badge/license--brightgreen)](https://opensource.org/licenses/)
 ## Table of Contents 
    * [Description](#description)
@@ -11,6 +21,7 @@ License [![badge:](https://img.shields.io/badge/license--brightgreen)](https://o
    * [Demo](#demo)
    * [Database](#database)
    * [Application](#application)
+   * [Technologies ](#technologies )
    * [Questions](#questions)
 
 ## Description 
@@ -45,7 +56,17 @@ SearchBooks
 SavedBooks
 ![screenshot](./readmeAssets/savedbooks.png)
 
-
+## Technologies 
+- JavaScript 
+- Express
+- Node.js
+- Mongoose
+- Heroku
+- React
+- MERN
+- Restful-API
+- GraphQL
+- Apollo
 
 ## Questions 
 Questions about the applications contact me through:
